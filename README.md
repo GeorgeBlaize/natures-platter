@@ -1,12 +1,15 @@
+----
 🥬 Nature’s Platter — Fresh Grocery Store 🌿
 
 A clean, fresh, and modern grocery store landing page built using HTML5 and Tailwind CSS (CDN).
 This project promotes organic freshness, fast delivery, and affordability, offering a visually appealing and mobile-friendly design.
+----
 
 🌐 Live Demo
 
-👉 Nature’s Platter — Live Preview
+👉 Nature’s Platter — https://georgeblaize.github.io/natures-platter/
 
+----
 🧩 Features
 🏠 Landing Page Sections
 🔹 Navigation Bar (Header)
@@ -16,7 +19,7 @@ Fixed top navigation bar with responsive mobile menu
 Links for Products, Services, and Contact Us
 
 Login and Register buttons for quick access
-
+----
 🌿 Hero Section
 
 Eye-catching headline and promotional message
