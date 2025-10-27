@@ -1,15 +1,12 @@
-----
 🥬 Nature’s Platter — Fresh Grocery Store 🌿
 
 A clean, fresh, and modern grocery store landing page built using HTML5 and Tailwind CSS (CDN).
 This project promotes organic freshness, fast delivery, and affordability, offering a visually appealing and mobile-friendly design.
-----
 
 🌐 Live Demo
 
-👉 Nature’s Platter — https://georgeblaize.github.io/natures-platter/
+👉 Nature’s Platter — Live Preview
 
-----
 🧩 Features
 🏠 Landing Page Sections
 🔹 Navigation Bar (Header)
@@ -19,7 +16,7 @@ Fixed top navigation bar with responsive mobile menu
 Links for Products, Services, and Contact Us
 
 Login and Register buttons for quick access
-----
+
 🌿 Hero Section
 
 Eye-catching headline and promotional message
@@ -50,13 +47,10 @@ Includes logo, quick links, and social media icons
 (Facebook, Instagram, LinkedIn, YouTube)
 
 🖼️ Screenshots
-
-💻 Desktop View:<img width="2490" height="5800" alt="georgeblaize github io_natures-platter_Desktop" src="https://github.com/user-attachments/assets/82aa2e4c-5b84-47e7-9428-9cfa04572f0a" />
-
-
-📱 Mobile View:<img width="874" height="8544" alt="georgeblaize github io_natures-platter_Mobile" src="https://github.com/user-attachments/assets/8aab2ef7-4dbe-4495-8c2b-6161b10341a6" />
-
-
+💻 Desktop View
+<img width="2490" height="5800" alt="georgeblaize github io_natures-platter_Desktop" src="https://github.com/user-attachments/assets/82aa2e4c-5b84-47e7-9428-9cfa04572f0a" />
+📱 Mobile View
+<img width="874" height="8544" alt="georgeblaize github io_natures-platter_Mobile" src="https://github.com/user-attachments/assets/8aab2ef7-4dbe-4495-8c2b-6161b10341a6" />
 🛠️ Technologies Used
 Technology	Purpose
 HTML5	Page structure and semantic layout
@@ -64,10 +58,7 @@ Tailwind CSS (CDN)	Styling and responsive design
 Google Fonts (Poppins)	Clean and modern typography
 Font Awesome	Social media and UI icons
 JavaScript (Vanilla)	Mobile navigation menu toggle
-
-----
 📁 Folder Structure
-```
 Nature’s-Platter/
 │
 ├── index.html                # Main landing page
@@ -88,21 +79,16 @@ Nature’s-Platter/
 │   ├── india-gate-mock-up.png
 │   └── vegetable-busket.png
 └── README.md                 # Project documentation
-```
-----
+
 ⚙️ Installation & Setup
-
 1️⃣ Clone this repository:
-
 git clone https://github.com/yourusername/natures-platter.git
 
-
 2️⃣ Navigate into the project directory:
-
 cd natures-platter
 
-
 3️⃣ Open in your browser:
+
 Simply open the index.html file in any modern browser.
 
 OR use Live Server in VS Code:
