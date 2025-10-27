@@ -158,10 +158,15 @@ Tailwind’s responsive utilities (md:, lg:, xl:) are used throughout for adapti
 💡 Key Highlights
 
 🍃 Clean and minimal UI design with a green and white theme
+
 ⚡ Fast-loading static page with zero dependencies or build tools
+
 🧭 Smooth responsive navigation and mobile menu toggle
+
 🛒 Product cards with star ratings and pricing
+
 📰 Newsletter subscription form
+
 🌍 SEO-friendly HTML structure
 
 ----
