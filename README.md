@@ -6,7 +6,7 @@ This project promotes organic freshness, fast delivery, and affordability, offer
 🌐 Live Demo
 
 👉 Nature’s Platter — Live Preview
- <!-- (https://georgeblaize.github.io/natures-platter/) -->
+ (https://georgeblaize.github.io/natures-platter/) 
 
 🧩 Features
 🏠 Landing Page Sections
