@@ -50,11 +50,11 @@ Includes logo, quick links, and social media icons (Facebook, Instagram, LinkedI
 🖼️ Screenshots
 💻 Desktop View
 
-(Add a screenshot here, e.g. ![Desktop Preview](.assets/georgeblaize.github.io_natures-platter_Desktop))
+(Add a screenshot here, e.g. ![Desktop Preview](assets/georgeblaize.github.io_natures-platter_Desktop))
 
 📱 Mobile View
 
-(Add a screenshot here, e.g. ![Mobile Preview](.assets/georgeblaize.github.io_natures-platter_Mobile))
+(Add a screenshot here, e.g. ![Mobile Preview](assets/georgeblaize.github.io_natures-platter_Mobile))
 
 🛠️ Technologies Used
 Technology	Purpose
