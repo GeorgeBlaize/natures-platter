@@ -64,6 +64,8 @@ Google Fonts (Poppins)	Typography
 Font Awesome	Social media and UI icons
 JavaScript (Vanilla)	Mobile navigation menu toggle
 📁 Folder Structure
+
+```
 Nature’s-Platter/
 │
 ├── index.html                # Main landing page
@@ -84,7 +86,7 @@ Nature’s-Platter/
 │   ├── india-gate-mock-up.png
 │   └── vegetable-busket.png
 └── README.md                 # Project documentation
-
+```
 ⚙️ Installation & Setup
 
 Clone this repository:
