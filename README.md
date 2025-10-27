@@ -47,9 +47,12 @@ Includes logo, quick links, and social media icons
 (Facebook, Instagram, LinkedIn, YouTube)
 
 🖼️ Screenshots
-💻 Desktop View
 
-📱 Mobile View
+💻 Desktop View:<img width="2490" height="5800" alt="georgeblaize github io_natures-platter_Desktop" src="https://github.com/user-attachments/assets/82aa2e4c-5b84-47e7-9428-9cfa04572f0a" />
+
+
+📱 Mobile View:<img width="874" height="8544" alt="georgeblaize github io_natures-platter_Mobile" src="https://github.com/user-attachments/assets/8aab2ef7-4dbe-4495-8c2b-6161b10341a6" />
+
 
 🛠️ Technologies Used
 Technology	Purpose
@@ -58,7 +61,10 @@ Tailwind CSS (CDN)	Styling and responsive design
 Google Fonts (Poppins)	Clean and modern typography
 Font Awesome	Social media and UI icons
 JavaScript (Vanilla)	Mobile navigation menu toggle
+
+----
 📁 Folder Structure
+```
 Nature’s-Platter/
 │
 ├── index.html                # Main landing page
@@ -79,7 +85,8 @@ Nature’s-Platter/
 │   ├── india-gate-mock-up.png
 │   └── vegetable-busket.png
 └── README.md                 # Project documentation
-
+```
+----
 ⚙️ Installation & Setup
 
 1️⃣ Clone this repository:
